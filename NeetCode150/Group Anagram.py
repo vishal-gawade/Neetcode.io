@@ -1,3 +1,4 @@
+# tC O(m*n) SC (m*n)
 class Solution(object):
     def groupAnagrams(self, strs):
         """
